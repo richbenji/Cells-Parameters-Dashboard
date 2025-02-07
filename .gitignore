@@ -122,3 +122,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Environnement virtuel Python
+/venv/
+
+# Ignorer les fichiers de configuration IDE (comme PyCharm)
+.idea/
+backup/
+cell_parameters_dashboard/
+*.csv
+
+Cells-Parameters-Dashboard-Ovizio/src/datasets.db
+
+dev-notebook.md
