@@ -1,0 +1,11 @@
+venv/
+.git/
+.idea/
+__pycache__/
+*.pyc
+data/
+backup/
+*.csv
+*.pdf
+test_step1.py
+dev-notebook.md

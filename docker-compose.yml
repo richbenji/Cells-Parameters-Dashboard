@@ -1,0 +1,11 @@
+services:
+  ovizio:
+    build: .
+    ports:
+      - "8050:8050"
+    volumes:
+      - ovizio-data:/data   # la base SQLite survit aux redémarrages
+    restart: unless-stopped
+
+volumes:
+  ovizio-data:
