@@ -130,5 +130,6 @@ dmypy.json
 .idea/
 backup/
 *.csv
-
+.gitignore
 /data/data.db
+Python Challenge.pdf
