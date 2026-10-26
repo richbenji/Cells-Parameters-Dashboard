@@ -3,9 +3,9 @@
 Application Dash pour visualiser les paramètres de cellules (diamètre,
 circularité, hauteur optique…) issus de captures Ovizio qMod.
 
-![dashboard1](/run/media/richard/PROGRAMMATION/Projets/Cell-Parameters-Dashboard/dashboard1.png)
+![dashboard1](/run/media/richard/PROGRAMMATION/Projets/Cell-Parameters-Dashboard/images/dashboard1.png)
 
-![dashboard2](/run/media/richard/PROGRAMMATION/Projets/Cell-Parameters-Dashboard/dashboard2.png)
+![dashboard2](/run/media/richard/PROGRAMMATION/Projets/Cell-Parameters-Dashboard/images/dashboard2.png)
 
 ## Fonctionnalités
 
