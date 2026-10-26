@@ -2,8 +2,8 @@
 import sys
 from pathlib import Path
 
-from ovizio_app import database as db
-from ovizio_app.data_processing import load_csv
+from src import database as db
+from src.data_processing import load_csv
 
 path = Path(sys.argv[1])
 db.init_db()

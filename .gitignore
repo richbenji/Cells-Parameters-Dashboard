@@ -131,3 +131,4 @@ dmypy.json
 backup/
 *.csv
 
+/data/data.db
